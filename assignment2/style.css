@@ -69,20 +69,44 @@ p, h6 {
 	border-top-style: none;
 	border-left-style: none;
 	border-right-style: none;
+	padding-left: 45px;
+}
+
+.navbar-header {
+	background-color: #4aaaa5;
+	/*padding-left: 20px;
+	padding-right: 20px;*/
+	margin-top: 30px;
+	margin-bottom: 0;
+	margin-left: 0px;
 }
 
 h1 {
 	color: #fff;
-	background-color: #4aaaa5;
-	padding: 10px;
-	padding-left: 20px;
-	padding-right: 20px;
-	margin-bottom: 0;
-	margin-left: 50px;
+	margin: 20px;
 }
 
 
 li a {
-	margin-top: 15px;
+	margin-top: 25%;
 	margin-left: 40px;
+}
+
+#aboutMe {
+	background-color: #fff;
+	width: 100%;
+	height: 70%;
+	margin: 100px;
+	margin-left: 0;
+	border-radius: 5px;
+}
+
+#connectWithMe {
+	background-color: #fff;
+	width: 100%;
+	height: 70%;
+	margin: 100px;
+	margin-left: 0;
+	margin-right: 0;
+	border-radius: 5px;
 }

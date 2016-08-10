@@ -90,25 +90,39 @@ li a {
 	margin-left: 40px;
 }
 
+#divider-line {
+	background-color: #e1e1e1;
+	height: 2px;
+	margin-bottom: 15px;
+}
+
 #aboutMe {
 	background-color: #fff;
+	color: #777;
 	border-radius: 2px;
 	border-color: #ccc;
 	border-width: 1px;
 	border-style: solid;
-	padding: 20px;
+	padding: 30px;
 	margin-top: 5%;
+	margin-bottom: 5%;
+	width: 65%;
 }
 
 #aboutMe h2 {
+	color: #4aaaa5;
 	margin-left: 20px;
 	margin-top: 0;
 }
 
 #aboutMe p {
-	margin-left: 0;
-	margin-top: 0;
 	line-height: 3;
+	margin-top: -10px;
+	margin-left: 10px;
+}
+
+#aboutMe img {
+	margin-right: 10px;
 }
 
 #connectWithMe {
@@ -119,4 +133,27 @@ li a {
 	border-style: solid;
 	padding: 20px;
 	margin-top: 5%;
+	margin-left: 10%;
+}
+
+#connectWithMe h3 {
+	color: #4aaaa5;
+	margin-top: -5px;
+}
+
+#connectWithMe a img {
+	margin-right: 15px;
+	margin-left: 15px;
+}
+
+#footer {
+	background-color: #666;
+	color: #fff;
+	padding: 2%;
+	border-color: #4aaaa5;
+	border-width: 6px;
+	border-style: solid;
+	border-bottom-style: none;
+	border-left-style: none;
+	border-right-style: none;
 }

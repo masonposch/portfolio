@@ -74,8 +74,6 @@ p, h6 {
 
 .navbar-header {
 	background-color: #4aaaa5;
-	/*padding-left: 20px;
-	padding-right: 20px;*/
 	margin-top: 30px;
 	margin-bottom: 0;
 	margin-left: 0px;
@@ -94,19 +92,31 @@ li a {
 
 #aboutMe {
 	background-color: #fff;
-	width: 100%;
-	height: 70%;
-	margin: 100px;
+	border-radius: 2px;
+	border-color: #ccc;
+	border-width: 1px;
+	border-style: solid;
+	padding: 20px;
+	margin-top: 5%;
+}
+
+#aboutMe h2 {
+	margin-left: 20px;
+	margin-top: 0;
+}
+
+#aboutMe p {
 	margin-left: 0;
-	border-radius: 5px;
+	margin-top: 0;
+	line-height: 3;
 }
 
 #connectWithMe {
 	background-color: #fff;
-	width: 100%;
-	height: 70%;
-	margin: 100px;
-	margin-left: 0;
-	margin-right: 0;
-	border-radius: 5px;
+	border-radius: 2px;
+	border-color: #ccc;
+	border-width: 1px;
+	border-style: solid;
+	padding: 20px;
+	margin-top: 5%;
 }

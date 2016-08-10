@@ -106,8 +106,9 @@ li a {
 	padding: 30px;
 	margin-top: 5%;
 	margin-bottom: 5%;
-	width: 65%;
-}
+	/*width: 65%;
+*/}
+
 
 #aboutMe h2 {
 	color: #4aaaa5;
@@ -133,7 +134,6 @@ li a {
 	border-style: solid;
 	padding: 20px;
 	margin-top: 5%;
-	margin-left: 10%;
 }
 
 #connectWithMe h3 {
@@ -142,8 +142,8 @@ li a {
 }
 
 #connectWithMe a img {
-	margin-right: 15px;
-	margin-left: 15px;
+	margin-right: 6%;
+	margin-left: 6%;
 }
 
 #footer {

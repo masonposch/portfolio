@@ -142,8 +142,8 @@ li a {
 }
 
 #connectWithMe a img {
-	margin-right: 6%;
-	margin-left: 6%;
+	margin-right: auto;
+	margin-left: auto;
 }
 
 #footer {

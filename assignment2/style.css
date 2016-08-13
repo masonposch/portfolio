@@ -188,3 +188,21 @@ input[type=submit]{
 	border-left-style: none;
 	border-right-style: none;
 }
+
+#the-image {
+	position: relative;
+}
+
+#portfolio_description {
+    position: absolute;
+    left: 0;
+    bottom: 30px;
+    width: 100%;
+    text-align: center;
+}
+
+h4 {
+	color: #fff;
+	background-color: #4aaaa5;
+	padding: 15px;
+}
